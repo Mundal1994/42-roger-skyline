@@ -1,0 +1,17 @@
+
+
+Disk /dev/sda: 8 GiB, 8589934592 bytes, 16777216 sectors
+Disk model: VBOX HARDDISK   
+Units: sectors of 1 * 512 = 512 bytes
+Sector size (logical/physical): 512 bytes / 512 bytes
+I/O size (minimum/optimal): 512 bytes / 512 bytes
+Disklabel type: dos
+Disk identifier: 0xc6ea70c8
+
+Device     Boot   Start      End  Sectors  Size Id Type
+/dev/sda1       5988350 16775167 10786818  5.1G  5 Extended
+/dev/sda2  *       2048  5986303  5984256  2.9G 83 Linux
+/dev/sda5       7987200 16775167  8787968  4.2G 83 Linux
+/dev/sda6       5988352  7987199  1998848  976M 82 Linux swap / Solaris
+
+Partition table entries are not in disk order.
