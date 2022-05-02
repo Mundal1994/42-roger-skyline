@@ -1,0 +1,30 @@
+body {
+	text-align: center;
+	background-color: darkcyan;
+	color: ghostwhite;
+}
+
+input {
+	border-radius: 25px;
+}
+
+input[type=text], input[type=password] {
+	width: 45em;
+	height: 3em;
+}
+
+input[type=submit] {
+	width: 13em;
+	height: 3em;
+	background-color: ghostwhite;
+}
+
+#hint-submit {
+	background-color: darkgray;
+}
+
+a {
+	text-align: right;
+	display: block;
+	text-decoration: none;
+}
